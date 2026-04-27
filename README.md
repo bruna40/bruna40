@@ -1,5 +1,24 @@
 # 💫 About Me:
-I'm a Computer Science student and currently working as a Back-End Development Intern.  <br>I mainly work with Java and Spring Boot to build APIs and backend systems.  <br>I'm passionate about clean code, software architecture, and continuous learning.
+I'm a Computer Science student currently working with AI agents and backend development.
+
+I focus on building intelligent systems that automate workflows and solve real-world problems, combining Java, Spring Boot, and AI-driven solutions.
+
+⚙️ What I do:
+- Design and implement AI agents for task automation
+- Build and integrate APIs using Java & Spring Boot
+- Create backend systems with clean architecture
+- Automate processes to improve efficiency
+
+🧠 Projects & Practice:
+- Development of AI-driven automations and workflows
+- Backend systems with authentication and business logic
+- Integration between services and intelligent agents
+
+📚 Currently learning:
+- Advanced AI agent architectures
+- System design and scalability
+- LLM integrations and orchestration
+
 
 
 ## 🌐 Socials:
